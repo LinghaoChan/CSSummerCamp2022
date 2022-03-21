@@ -6,11 +6,17 @@
 
 ### 学校
 
-【报名截止: xxxx.xx.xx】[xx大学xx学院2021夏令营报名通知](link)
+【报名截止: xxxx.xx.xx】[xx大学xx学院2022夏令营报名通知](link)
 
 
 
 
+
+# 致谢
+
+**夏令营报名仓库、入营名单、预推免报名仓库主要由以下人员维护。感谢大家的支持！**
+
+[@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
 # 计算机保研交流群
 
