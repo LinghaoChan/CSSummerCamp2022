@@ -8,7 +8,9 @@
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
+# 中国科学院大学
 
+【报名截止: 2022.3.31】[中国科学院自动化研究所2022年“人工智能菁英班”项目](http://www.ia.cas.cn/yjsjy/zs/sszs/202203/t20220321_6401496.html)
 
 
 
