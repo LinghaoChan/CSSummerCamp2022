@@ -12,7 +12,11 @@
 
 【报名截止: 2022.3.31】[中国科学院自动化研究所2022年“人工智能菁英班”项目](http://www.ia.cas.cn/yjsjy/zs/sszs/202203/t20220321_6401496.html)
 
+# 中国香港
 
+【报名截止: 2022.4.29】[香港中文大学 HKPHD FELLOWSHIP SUMMER WORKSHOP](http://hkpfs.erg.cuhk.edu.hk/)
+
+【报名截止: 2022.5.31】[香港大学计算机科学研究实习项目](https://www.cs.hku.hk/rintern/)
 
 # 致谢
 
