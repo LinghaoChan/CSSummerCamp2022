@@ -12,6 +12,10 @@
 
 【报名截止: 2022.3.31】[中国科学院自动化研究所2022年“人工智能菁英班”项目](http://www.ia.cas.cn/yjsjy/zs/sszs/202203/t20220321_6401496.html)
 
+# 天津大学
+
+【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
+
 
 
 # 致谢
