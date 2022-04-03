@@ -27,6 +27,10 @@
 
 [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
+# CSLabInfo2022
+
+关于2022年**CS保研实验室/导师招生广告**的汇总请查看[CSLabInfo2022](https://github.com/zengkaipeng/CSLabInfo2022)。该仓库仅提供招生信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。
+
 # 计算机保研交流群
 
 **全国最大非商业用爱交流计算机保研交流群**（QQ群号：605176069）
