@@ -11,6 +11,10 @@
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
+# 中国人民大学
+
+【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)
+
 # 西湖大学
 
 【报名截止: 2022.6.20】[西湖大学2022年暑期夏令营](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202204/t20220411_19774.shtml)
