@@ -5,7 +5,7 @@
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/Alpha-Yang/CS-BAOYAN-2022)。
 
 # 清华大学
-【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)
+~~【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
 
 # 南京大学
 
