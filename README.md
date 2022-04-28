@@ -7,6 +7,9 @@
 # 清华大学
 ~~【报名截止: 2022.4.24】[清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
 
+# 北京大学
+【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
+
 # 南京大学
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
