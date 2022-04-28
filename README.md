@@ -10,6 +10,9 @@
 # 北京大学
 【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
 
+# 复旦大学
+【报名截止：2022.5.31】[复旦大学计算机科学技术学院2022年全国优秀大学生夏令营](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)
+
 # 南京大学
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
