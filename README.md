@@ -35,6 +35,10 @@
 
 【报名截止: 2022年五月份左右开始联系，请尽早】 [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
 
+# 中国科学技术大学
+
+【报名截止：2022.6.30】[中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
+
 # 天津大学
 
 【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
