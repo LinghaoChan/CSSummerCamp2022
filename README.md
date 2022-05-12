@@ -9,6 +9,8 @@
 
 【报名截止：2022.5.19】[清华大学交叉信息研究院2022年优秀大学生夏令营](https://admission.iiis.tsinghua.edu.cn/2022/)
 
+【报名截止：2022.6.9】[清华大学第五届（2022年）“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
+
 # 北京大学
 【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
 
