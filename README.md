@@ -23,7 +23,7 @@
 
 【报名截止: 2022.5.30】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
-【报名截止: 2022.6.20】南京大学计算机科学与技术系2022年本科生开放日报名通知](https://cs.nju.edu.cn/b0/eb/c1654a569579/page.htm)
+【报名截止: 2022.6.20】[南京大学计算机科学与技术系2022年本科生开放日报名通知](https://cs.nju.edu.cn/b0/eb/c1654a569579/page.htm)
 
 # 中国人民大学
 
