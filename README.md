@@ -45,6 +45,10 @@
 
 【报名截止: 2022年五月份左右开始联系，请尽早】 [中科院软件所中文信息处理实验室](http://www.icip.org.cn/zh/2022/04/11/recruit/)
 
+【报名截止: 2022.6.30】[中国科学院自动化研究所2022年“人工智能”大学生暑期学校招生通知](https://mp.weixin.qq.com/s/DBzm8hKXGIavwMq7st44Vw)
+
+
+
 # 中国科学技术大学
 
 【报名截止：2022.6.30】[中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
