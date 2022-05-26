@@ -57,6 +57,10 @@
 
 【报名截止：2022.6.30】[电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名](https://www.iffs.uestc.edu.cn/info/1032/4765.htm?themecolor=111111)
 
+# 上海交通大学
+
+【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
+
 # 中国科学院上海高等研究院
 
 【报名截止：2022.6.17】[中国科学院上海高等研究院 “梦筑高研” 2022年大学生暑假夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202204/t20220424_6437240.html)
