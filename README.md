@@ -61,6 +61,10 @@
 
 【报名截止：2022.6.17】[中国科学院上海高等研究院 “梦筑高研” 2022年大学生暑假夏令营活动通知](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202204/t20220424_6437240.html)
 
+# 上海交通大学
+
+【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
+
 # 上海科技大学
 
 【报名截止：2022.6.19】[上海科技大学信息科学与技术学院 2022年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2022/0509/c2863a540028/page.htm)
