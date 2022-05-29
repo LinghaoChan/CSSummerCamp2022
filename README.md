@@ -18,6 +18,8 @@
 
 【报名截止：2022.6.30】[北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
 
+【报名截止：2022.6.16】[北京大学智能学院关于举办2022年优秀大学生夏令营的通知](https://www.cis.pku.edu.cn/info/1034/1817.htm)
+
 【报名截止：2022.6.24】[北京大学软件与微电子学院2022年全国优秀大学生夏令营通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
 
 【报名截止：2022.6.16】[北京大学计算机学院关于举办2022年优秀大学生夏令营的通知](https://cs.pku.edu.cn/info/1023/3442.htm)
