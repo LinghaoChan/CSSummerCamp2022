@@ -18,6 +18,8 @@
 
 【报名截止：2022.6.23】[清华大学深圳国际研究生院2022年数据科学和信息技术专业/清华-伯克利深圳学院优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2022/0531/c120a54040/page.htm)
 
+【报名截止：2022.6.26】[清华大学深圳国际研究生院2022年信息科学与技术学部全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/ZVKdxUp292qjrfjM62e_SQ)
+
 # 北京大学
 
 【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
