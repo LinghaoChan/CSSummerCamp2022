@@ -22,7 +22,7 @@
 
 # 北京大学
 
-【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)
+~~【报名截止：2022.6.10】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1460)~~
 
 【报名截止：2022.6.30】[北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
 
@@ -40,7 +40,7 @@
 
 # 南京大学
 
-【报名截止: 2022.6.10】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
+~~【报名截止: 2022.6.10】[南京大学计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)~~
 
 【报名截止: 2022.6.20】[南京大学计算机科学与技术系2022年本科生开放日报名通知](https://cs.nju.edu.cn/b0/eb/c1654a569579/page.htm)
 
@@ -52,7 +52,7 @@
 
 ~~【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/xwgg/xygg/6d7d1c548f4c45919f0e30b2ce78a9d7.htm)~~
 
-【报名截止: 2022.6.10】[中国人民大学高瓴人工智能学院](https://mp.weixin.qq.com/s/xGEd_mRczxnNNVVa0LRPxQ)
+~~【报名截止: 2022.6.10】[中国人民大学高瓴人工智能学院](https://mp.weixin.qq.com/s/xGEd_mRczxnNNVVa0LRPxQ)~~
 
 # 西湖大学
 
@@ -92,13 +92,13 @@
 
 # 四川大学
 
-【报名截止：2022.6.10】[四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)
+~~【报名截止：2022.6.10】[四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)~~
 
 【报名截止：2022.6.19】[四川大学计算机学院（软件学院)2022年优秀大学生暑期云夏令营招生简章](https://cs.scu.edu.cn/info/1247/17030.htm)
 
 # 中国农业大学
 
-【报名截止：2022.6.10】[中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)
+~~【报名截止：2022.6.10】[中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)~~
 
 # 上海交通大学
 
