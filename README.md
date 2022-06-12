@@ -130,11 +130,11 @@
 
 # 华东师范大学
 
-【报名截止：2022.6.12】[华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051120179966143823)
+~~【报名截止：2022.6.12】[华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051120179966143823)~~
 
 【报名截止：2022.6.19】[计算机科学与技术学院 2022 年优秀大学生夏令营活动招生公告](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051320132001150608)
 
-【报名截止：2022.6.12】[数据科学与工程学院第十届 云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051920140103103429)
+~~【报名截止：2022.6.12】[数据科学与工程学院第十届 云计算与大数据优秀大学生夏令营](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051920140103103429)~~
 
 # 中国海洋大学
 
