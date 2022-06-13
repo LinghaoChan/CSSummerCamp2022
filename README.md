@@ -248,6 +248,10 @@
 
 【报名截止：2022.6.27】[华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
 
+# 北京航空航天大学
+
+【报名截止：2022.6.28】[北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
+
 # 致谢
 
 **夏令营报名仓库、入营名单、预推免报名仓库主要由以下人员维护。感谢大家的支持！**
