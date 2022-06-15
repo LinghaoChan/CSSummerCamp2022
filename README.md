@@ -256,6 +256,10 @@
 
 【报名截止：2022.6.24】[东北大学计算机科学与工程学院2022年优秀大学生学术夏令营活动](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650199430&idx=1&sn=4de51ae7f600cdc7bc5ac31ce25888fa&chksm=8f7a1186b80d9890c410b785e35602072297b1a13f98cad85794694b1dbb1384244444690085&mpshare=1&scene=23&srcid=06149fIdKHBxBcjJ9nNj8h30&sharer_sharetime=1655214359140&sharer_shareid=52095cdf584685215881244b250b339c#rd)
 
+# 北京理工大学
+
+【报名截止：2022.7.3】[北京理工大学网络空间安全学院 2022年全国优秀大学生暑期夏令营招生简章](https://cst.bit.edu.cn/xxfw/tzgg/c5c6fb433b9c4a5a8d9a8d991c2d026b.htm)
+
 # 致谢
 
 **夏令营报名仓库、入营名单、预推免报名仓库主要由以下人员维护。感谢大家的支持！**
