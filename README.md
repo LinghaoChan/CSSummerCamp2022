@@ -5,7 +5,7 @@
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/Alpha-Yang/CS-BAOYAN-2022)。
 
 
-## [夏令营入营及考核结果开奖情况统计](https://docs.qq.com/sheet/DUWhaRXFlV0txcUFp)
+# [夏令营入营及考核结果开奖情况统计](https://docs.qq.com/sheet/DUWhaRXFlV0txcUFp)
 
 
 # 清华大学
@@ -86,6 +86,16 @@
 
 【报名截止: 2022.7.9】[中国科学院软件研究所2022年全国大学生“软件与网络”夏令营招生简章----软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)
 
+# 同济大学
+
+~~【报名截止：2022.6.15】[2022年同济大学电子与信息工程学院优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1147/10142.htm)~~
+
+~~【报名截止：2022.6.15】[同济大学软件学院优秀学生暑期学校活动通知](https://sse.tongji.edu.cn/info/1132/3679.htm)~~
+
+# 北京航空航天大学
+
+【报名截止：2022.6.28】[北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
+
 # 天津大学
 
 【报名截止: 2022.6.20】[天津大学智能与计算学部2023级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/3813.htm)
@@ -110,6 +120,12 @@
 
 【报名截止：2022.6.25】[中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)
 
+# 浙江大学
+
+【报名截止：2022.6.19】[软件学院2022年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2022/0607/c36207a2588228/page.htm)
+
+【报名截止：2022.7.1】[浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)
+
 # 上海交通大学
 
 【报名截止：2022.6.26】[上海交通大学“2022软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=21216)
@@ -117,7 +133,6 @@
 【报名截止：2022.6.26】[【优才选拔】上海交大电院 2023级研究生优秀生源选拔活动通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34470.htm)
 
 【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
-
 
 # 上海科技大学
 
@@ -131,10 +146,6 @@
 
 ~~【报名截止：2022.6.15】[人工智能学院关于举办2022年优秀大学生夏令营的通知](https://sai.jlu.edu.cn/info/1065/3349.htm)~~
 
-# 兰州大学
-
-~~【报名截止：2022.6.5】[兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)~~
-
 # 华东师范大学
 
 ~~【报名截止：2022.6.12】[华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051120179966143823)~~
@@ -143,10 +154,6 @@
 
 【报名截止：2022.6.19】[计算机科学与技术学院 2022 年优秀大学生夏令营活动招生公告](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051320132001150608)
 
-# 中国海洋大学
-
-【报名截止：2022.6.20】[关于举办2022年中国海洋大学信息学部“优秀大学生夏令营”活动的通知](https://it.ouc.edu.cn/2022/0518/c21608a370713/page.htm)
-
 # 南开大学
 
 【报名截止：2022.6.24】[【夏令营】关于举办2022年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
@@ -154,12 +161,6 @@
 【报名截止：2022.6.27】[【夏令营】关于举办2022年南开大学人工智能学院优秀大学生云端夏令营的通知](https://ai.nankai.edu.cn/info/1024/4968.htm)
 
 【报名截止：暂无】[【推免生】南开大学计算机学院和网络空间安全学院2023年接收优秀应届本科生推荐免试为研究生的通知](https://cyber.nankai.edu.cn/2022/0608/c13348a456925/page.htm)
-
-# 同济大学
-
-~~【报名截止：2022.6.15】[2022年同济大学电子与信息工程学院优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1147/10142.htm)~~
-
-~~【报名截止：2022.6.15】[同济大学软件学院优秀学生暑期学校活动通知](https://sse.tongji.edu.cn/info/1132/3679.htm)~~
 
 # 哈尔滨工业大学
 
@@ -181,10 +182,6 @@
 
 【报名截止：2022.6.26】[北京师范大学人工智能学院 2022年优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
 
-# 华东理工大学
-
-【报名截止：2022.6.20】[【招生】华东理工大学信息科学与工程学院2022年全国大学生暑期夏令营通知](https://cise.ecust.edu.cn/2022/0526/c7692a144888/page.htm)
-
 # 中南大学
 
 ~~【报名截止：2022.6.9】[关于举办“中南大学2022年优秀大学生暑期夏令营”活动的通知](https://gra.csu.edu.cn/info/1012/38183.htm)~~
@@ -203,10 +200,6 @@
 
 【报名截止：2022.6.26】[中山大学网络空间安全学院2022年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/rc/rc05/1401244.htm)
 
-# 深圳大学
-
-【报名截止：2022.7.8】[首届深圳大学全国优秀大学生计算机夏令营（2023级）](https://mp.weixin.qq.com/s/HRkDcSwfDQGTuTsIcgKcnQ)
-
 # 武汉大学
 
 ~~【报名截止：2022.6.15】[武汉大学计算机学院2022年优秀大学生夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1727)~~
@@ -223,20 +216,6 @@
 
 【报名截止：2022.7.4】[网络空间安全学院（研究院）2022年全国优秀大学生暑期夏令营公告](https://cst.qd.sdu.edu.cn/info/1023/2180.htm)
 
-# 浙江大学
-
-【报名截止：2022.6.19】[软件学院2022年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2022/0607/c36207a2588228/page.htm)
-
-【报名截止：2022.7.1】[浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)
-
-# 南京邮电大学
-
-【报名截止：2022.6.18】[南京邮电大学计算机学院、软件学院、网络空间安全学院夏令营安排及通知](http://cs.njupt.edu.cn/2022/0604/c9375a222432/page.htm)
-
-【报名截止：2022.6.22】[南京邮电大学物联网学院关于举办2022年全国优秀大学生暑期夏令营的通知](https://ciot.njupt.edu.cn/2022/0602/c10653a222327/page.htm)
-
-【报名截止：2022.7.1】[南京邮电大学自动化学院、人工智能学院关于举办2022年全国优秀大学生暑期夏令营的通知（线上）](http://coa.njupt.edu.cn/2022/0610/c2277a222705/page.htm)
-
 # 西安交通大学
 
 ~~【报名截止：2022.6.15】[电信学部-计算机科学与技术学院2022年（第四届）全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/2891.htm)~~
@@ -245,9 +224,27 @@
 
 【报名截止：暂无】[电信学部-网络空间安全学院2022年（第四届）全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1727.htm)
 
-# 北京邮电大学
+# 华南理工大学
 
-【报名截止：2022.6.24】[北京邮电大学2022年全国优秀大学生暑期夏令营通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_568)
+【报名截止：2022.6.27】[华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+
+【报名截止：2022.6.27】[华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)
+
+【报名截止：2022.6.27】[华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
+
+# 东北大学
+
+【报名截止：2022.6.24】[东北大学计算机科学与工程学院2022年优秀大学生学术夏令营活动](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650199430&idx=1&sn=4de51ae7f600cdc7bc5ac31ce25888fa&chksm=8f7a1186b80d9890c410b785e35602072297b1a13f98cad85794694b1dbb1384244444690085&mpshare=1&scene=23&srcid=06149fIdKHBxBcjJ9nNj8h30&sharer_sharetime=1655214359140&sharer_shareid=52095cdf584685215881244b250b339c#rd)
+
+# 西北工业大学
+
+【报名截止：2022.6.30】[西北工业大学计算机学院2022 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/10502.htm)
+
+【报名截止：2022.6.30】[网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://wlkjaqxy.nwpu.edu.cn/info/1044/2707.htm)
+
+# 兰州大学
+
+~~【报名截止：2022.6.5】[兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)~~
 
 # 华中师范大学
 
@@ -259,21 +256,25 @@
 
 【报名截止：2022.6.24】[2022年北京交通大学计算机与信息技术学院全国优秀大学生暑期夏令营通知](http://scit.bjtu.edu.cn/cms/item/5000.html)
 
-# 华南理工大学
+# 华东理工大学
 
-【报名截止：2022.6.27】[华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+【报名截止：2022.6.20】[【招生】华东理工大学信息科学与工程学院2022年全国大学生暑期夏令营通知](https://cise.ecust.edu.cn/2022/0526/c7692a144888/page.htm)
 
-【报名截止：2022.6.27】[华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)
+# 北京邮电大学
 
-【报名截止：2022.6.27】[华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
+【报名截止：2022.6.24】[北京邮电大学2022年全国优秀大学生暑期夏令营通知](https://yzb.bupt.edu.cn/content/content.php?p=2_1_568)
 
-# 北京航空航天大学
+# 南京邮电大学
 
-【报名截止：2022.6.28】[北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
+【报名截止：2022.6.18】[南京邮电大学计算机学院、软件学院、网络空间安全学院夏令营安排及通知](http://cs.njupt.edu.cn/2022/0604/c9375a222432/page.htm)
 
-# 东北大学
+【报名截止：2022.6.22】[南京邮电大学物联网学院关于举办2022年全国优秀大学生暑期夏令营的通知](https://ciot.njupt.edu.cn/2022/0602/c10653a222327/page.htm)
 
-【报名截止：2022.6.24】[东北大学计算机科学与工程学院2022年优秀大学生学术夏令营活动](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650199430&idx=1&sn=4de51ae7f600cdc7bc5ac31ce25888fa&chksm=8f7a1186b80d9890c410b785e35602072297b1a13f98cad85794694b1dbb1384244444690085&mpshare=1&scene=23&srcid=06149fIdKHBxBcjJ9nNj8h30&sharer_sharetime=1655214359140&sharer_shareid=52095cdf584685215881244b250b339c#rd)
+【报名截止：2022.7.1】[南京邮电大学自动化学院、人工智能学院关于举办2022年全国优秀大学生暑期夏令营的通知（线上）](http://coa.njupt.edu.cn/2022/0610/c2277a222705/page.htm)
+
+# 中国海洋大学
+
+【报名截止：2022.6.20】[关于举办2022年中国海洋大学信息学部“优秀大学生夏令营”活动的通知](https://it.ouc.edu.cn/2022/0518/c21608a370713/page.htm)
 
 # 北京理工大学
 
@@ -281,11 +282,9 @@
 
 【报名截止：2022.7.3】[北京理工大学网络空间安全学院 2022年全国优秀大学生暑期夏令营招生简章](https://cst.bit.edu.cn/xxfw/tzgg/c5c6fb433b9c4a5a8d9a8d991c2d026b.htm)
 
-# 西北工业大学
+# 深圳大学
 
-【报名截止：2022.6.30】[西北工业大学计算机学院2022 年全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/10502.htm)
-
-【报名截止：2022.6.30】[网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://wlkjaqxy.nwpu.edu.cn/info/1044/2707.htm)
+【报名截止：2022.7.8】[首届深圳大学全国优秀大学生计算机夏令营（2023级）](https://mp.weixin.qq.com/s/HRkDcSwfDQGTuTsIcgKcnQ)
 
 # 致谢
 
