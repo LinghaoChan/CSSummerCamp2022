@@ -128,6 +128,8 @@
 
 【报名截止：2022.7.1】[浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)
 
+【报名截止：2022.7.3】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院 2022年优秀大学生云端夏令营](https://zjui.intl.zju.edu.cn/college/1855)
+
 # 上海交通大学
 
 【报名截止：2022.6.26】[上海交通大学“2022软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=21216)
