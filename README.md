@@ -96,7 +96,7 @@
 
 # 北京航空航天大学
 
-【报名截止：2022.6.28】[北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
+~~【报名截止：2022.6.28】[北京航空航天大学计算机学院2022年全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)~~
 
 # 天津大学
 
@@ -136,7 +136,7 @@
 
 ~~【报名截止：2022.6.26】[【优才选拔】上海交大电院 2023级研究生优秀生源选拔活动通知](https://yjwb.seiee.sjtu.edu.cn/yjwb/info/34470.htm)~~
 
-【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)
+~~【报名截止：2022.6.27】[上海交通大学密西根学院2023年研究生招生夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2022-05-21/130960/)~~
 
 # 上海科技大学
 
@@ -162,7 +162,7 @@
 
 ~~【报名截止：2022.6.24】[【夏令营】关于举办2022年南开大学“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)~~
 
-【报名截止：2022.6.27】[【夏令营】关于举办2022年南开大学人工智能学院优秀大学生云端夏令营的通知](https://ai.nankai.edu.cn/info/1024/4968.htm)
+~~【报名截止：2022.6.27】[【夏令营】关于举办2022年南开大学人工智能学院优秀大学生云端夏令营的通知](https://ai.nankai.edu.cn/info/1024/4968.htm)~~
 
 【报名截止：暂无】[【推免生】南开大学计算机学院和网络空间安全学院2023年接收优秀应届本科生推荐免试为研究生的通知](https://cyber.nankai.edu.cn/2022/0608/c13348a456925/page.htm)
 
@@ -202,9 +202,9 @@
 
 ~~【报名截止：2022.6.20】[中山大学人工智能学院2022年全国优秀大学生夏令营活动报名通知](https://sai.sysu.edu.cn/teach/graduate/1401394.htm)~~
 
-【报名截止：2022.6.26】[中山大学软件工程学院2022年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/279)
+~~【报名截止：2022.6.26】[中山大学软件工程学院2022年全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/279)~~
 
-【报名截止：2022.6.26】[中山大学网络空间安全学院2022年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/rc/rc05/1401244.htm)
+~~【报名截止：2022.6.26】[中山大学网络空间安全学院2022年优秀大学生夏令营活动报名通知](https://scst.sysu.edu.cn/rc/rc05/1401244.htm)~~
 
 # 武汉大学
 
@@ -218,7 +218,7 @@
 
 ~~【报名截止：2022.6.26】[关于举办“山东大学软件学院2022年全国优秀大学生暑期夏令营”活动的通知](https://www.sc.sdu.edu.cn/info/1019/3346.htm)~~
 
-【报名截止：2022.6.27】[山东大学机电与信息工程学院2022年全国优秀大学生暑期夏令营招生简章](https://ie.wh.sdu.edu.cn/info/1262/8403.htm)
+~~【报名截止：2022.6.27】[山东大学机电与信息工程学院2022年全国优秀大学生暑期夏令营招生简章](https://ie.wh.sdu.edu.cn/info/1262/8403.htm)~~
 
 【报名截止：2022.7.4】[网络空间安全学院（研究院）2022年全国优秀大学生暑期夏令营公告](https://cst.qd.sdu.edu.cn/info/1023/2180.htm)
 
@@ -232,11 +232,11 @@
 
 # 华南理工大学
 
-【报名截止：2022.6.27】[华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+~~【报名截止：2022.6.27】[华南理工大学2022年夏令营各学院招募方案](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)~~
 
-【报名截止：2022.6.27】[华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)
+~~【报名截止：2022.6.27】[华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDD21BD9C9DBF0C29B60819A7A8A68CE84B2C4CEC5C89A634D74460F2F0CAB2326A)~~
 
-【报名截止：2022.6.27】[华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)
+~~【报名截止：2022.6.27】[华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F8B57BF7511F3F0B0E09876409BEA22769EF1ECB38D0CB1AAEC41C2073B671C56)~~
 
 # 东北大学
 
