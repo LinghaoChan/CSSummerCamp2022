@@ -108,7 +108,7 @@
 
 ~~【报名截止: 2022.6.20】[天津大学智能与计算学部2023级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/3813.htm)~~
 
-【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)
+~~【报名截止: 2022.6.30】[天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd)~~
 
 # 电子科技大学
 
@@ -132,7 +132,7 @@
 
 ~~【报名截止：2022.6.19】[软件学院2022年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2022/0607/c36207a2588228/page.htm)~~
 
-【报名截止：2022.7.1】[浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)
+~~【报名截止：2022.7.1】[浙江大学计算机学院招收2022年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2022/0527/c27011a2566351/page.htm)~~
 
 【报名截止：2022.7.3】[浙江大学伊利诺伊大学厄巴纳香槟校区联合学院 2022年优秀大学生云端夏令营](https://zjui.intl.zju.edu.cn/college/1855)
 
