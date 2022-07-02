@@ -56,6 +56,10 @@
 
 ~~【报名截止：2022.6.30】[中国科学技术大学“优秀大学生夏令营” 活动通知](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)~~
 
+# 西安电子科技大学
+
+【报名截止：2022.9.23】[西安电子科技大学计科院2023年研究生招生学术夏令营暨预推免报名](https://cs.xidian.edu.cn/info/1003/14792.htm)
+
 # 中国人民大学
 
 ~~【报名截止: 2022.5.20】[中国人民大学信息学院“2022年优秀大学生夏令营”](http://info.ruc.edu.cn/xwgg/xygg/6d7d1c548f4c45919f0e30b2ce78a9d7.htm)~~
